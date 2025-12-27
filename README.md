@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠 Languages & Tools I Use
+## 🛠 Tech Stack
 
 <p align="left">
   <!-- Animated (kept intentionally) -->
@@ -66,6 +66,18 @@
   <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </p>
+
+## 🤖 Machine Learning & Deep Learning
+
+<p align="left">
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"/>
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/>
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras"/>
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/>
+</p>
+
 
 ---
 
