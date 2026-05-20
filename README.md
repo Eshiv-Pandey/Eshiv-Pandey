@@ -37,13 +37,7 @@
 
 ## ✨ What I’m working on right now…
 
-- ✔ Contributing to **Keploy** (open-source API testing platform)
-- ✔ Learning **Go** by reading and modifying production code
-- ✔ Working with **Node.js** and backend tooling
-- ✔ Using **Docker** at a functional level (setup & debugging)
-- ✔ Strengthening fundamentals in **DSA** and **ML/DL**
-- ✔ Preparing for **Google Summer of Code 2026**
-
+- ✔ Bulding tRAGtion
 ---
 
 ## 🛠 Tech Stack
