@@ -1,44 +1,6 @@
-<!-- Unicorn (animated, isolated so it doesn't break layout) -->
-
-
-<!-- Header -->
-<div align="center">
-
-<h1>
-  <img align="right" width="240px"
-  src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"
-  alt="Unicorn"/>
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
-  I'm Eshiv Pandey
-</h1>
-
-<h3>
-  BTech ECE (Minor in AI/ML) | Open-Source Contributor | Full Stack Developer | Seeking Summer 2026 Internship
-</h3>
-
-</div>
-
-<br>
-
-<!-- About -->
-<div align="center">
-  <em>
-    This is me, <b>Eshiv</b>, a BTech ECE undergraduate (Minor in AI/ML) from the
-    <b>University of Delhi</b>.<br><br>
-    I am interested in <b>backend systems</b>, <b>open-source development</b>, and
-    building tools that improve <b>developer experience</b>.<br><br>
-   
-  </em>
-</div>
-
-<br>
-
----
-
-## ✨ What I’m working on right now…
-
-- ✔ Bulding tRAGtion
----
+<p align="center">
+  <img src="assets/github_card.png" alt="Profile Card" width="1000">
+</p>
 
 ## 🛠 Tech Stack
 
