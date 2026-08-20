@@ -1,6 +1,4 @@
 
-<img width="1273" height="1329" alt="image" src="https://github.com/user-attachments/assets/31a988e7-b9b7-461a-88aa-77a6839e0ea9" />
-
 ## 🛠 Tech Stack
 
 <p align="left">
