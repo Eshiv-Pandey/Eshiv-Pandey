@@ -1,11 +1,6 @@
 
 <img width="1273" height="1329" alt="image" src="https://github.com/user-attachments/assets/31a988e7-b9b7-461a-88aa-77a6839e0ea9" />
 
-
-<p align="center">
-  <img src="assets/github_card.png" alt="Profile Card" width="1000">
-</p>
-
 ## 🛠 Tech Stack
 
 <p align="left">
