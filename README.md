@@ -7,7 +7,7 @@ I build full-stack platforms from scratch and contribute to CNCF cloud-native in
 ### Open Source & Engineering
 
 - **[HAMi](https://github.com/Project-HAMi/HAMi) (CNCF):** 12 merged PRs across NVIDIA GPU/MIG scheduling, AWS Neuron, and the scheduler extender, plus multi-vendor device backends (Ascend, Hygon, Metax, MThreads).
-- **Reviewed 5+ PRs,** surfacing correctness bugs and edge cases through detailed code analysis.
+- **Reviewed 10+ PRs,** surfacing correctness bugs and edge cases through detailed code analysis.
 - **Founding Engineer** at Venturelync, building the platform and Lync Terminal from scratch (Next.js, Supabase, FastAPI), integrating Razorpay, HubSpot, Zoho Books, and GitHub.
 - **KeyV DB:** ACID-compliant embedded key-value database in C++17 with B+Tree indexing, WAL, ARIES-style crash recovery, and 2PL.
 
