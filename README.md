@@ -18,6 +18,7 @@ I build full-stack platforms from scratch and contribute to CNCF cloud-native in
 
 ### Tech Stack
 
+<p align="left">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -37,5 +38,6 @@ I build full-stack platforms from scratch and contribute to CNCF cloud-native in
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Eshiv-Pandey&label=Profile%20views&color=0e75b6&style=flat)
