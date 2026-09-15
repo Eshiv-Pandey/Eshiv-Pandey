@@ -1,6 +1,6 @@
 **Full Stack Engineer / Open Source Contributor.**
 
-[Portfolio](https://eshivpandey.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/eshiv-pandey18/) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/u/Eshiv_Pandey/) &nbsp;•&nbsp; [Email](mailto:eshivpandey18@gmail.com)
+[Portfolio](https://eshivpandey.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/eshiv-pandey18/) &nbsp;•&nbsp; [Email](mailto:eshivpandey18@gmail.com)
 
 I build full-stack platforms from scratch and contribute to CNCF cloud-native infrastructure, including GPU scheduling, distributed systems, and developer tooling.
 
